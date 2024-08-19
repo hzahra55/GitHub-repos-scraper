@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+metabase,metabase,37800, visualization  mysql  slack  postgres  data  clojure  bi  database  dashboard  analytics  reporting  businessintelligence  postgresql  data-visualization  metabase  business-intelligence  data-analysis  sql-editor ,https://github.com/metabase/metabase
+logseq,logseq,31600, git  markdown  clojure  graph  clojurescript  knowledge-graph  org-mode  note-taking  knowledge-base  pkm  local-first ,https://github.com/logseq/logseq
+penpot,penpot,31600, design  clojure  ui  clojurescript  prototyping  ux-experience  ux-design ,https://github.com/penpot/penpot
+deeplearning4j,deeplearning4j,13600, python  java  clojure  scala  spark  hadoop  gpu  intellij  linear-algebra  artificial-intelligence  deeplearning  neural-nets  dl4j  matrix-library  deeplearning4j ,https://github.com/deeplearning4j/deeplearning4j
+LightTable,LightTable,11700, editor  clojure  clojurescript  ide  lighttable  clojure-development ,https://github.com/LightTable/LightTable
+kanaka,mal,10000, javascript  ruby  python  c  java  c-sharp  bash  swift  docker  php  c-plus-plus  clojure  r  scala  lisp  makefile  webassembly  learn-to-code  mal  lisp-interpreter ,https://github.com/kanaka/mal
+lk-geimfari,awesomo,9300, ruby  python  rust  open-source  list  clojure  haskell  awesome  typescript  erlang  elixir  scala  lisp  lua  emacs-lisp  ocaml  projects  dev ,https://github.com/lk-geimfari/awesomo
+tonsky,datascript,5400, clojure  database  clojurescript  memory-database  datascript ,https://github.com/tonsky/datascript
+reagent-project,reagent,4700, react  clojure  frontend  clojurescript  reagent  hiccup ,https://github.com/reagent-project/reagent
+izhangzhihao,intellij-rainbow-brackets,4400, kotlin  java  clojure  scala  intellij  rainbow  intellij-plugin  android-studio  fleet  rainbowify  rainbow-brackets  rainbow-parentheses ,https://github.com/izhangzhihao/intellij-rainbow-brackets
+riemann,riemann,4200, events  clojure  monitoring  metrics  logging  riemann  monitoring-tool ,https://github.com/riemann/riemann
+weavejester,compojure,4100, http  clojure  routing  ring ,https://github.com/weavejester/compojure
+defold,defold,4000, c-plus-plus  gamedev  multi-platform  clojure  lua  game-engine  game-development  defold  hacktoberfest ,https://github.com/defold/defold
+bbatsov,clojure-style-guide,4000, styleguide  clojure  style-guide ,https://github.com/bbatsov/clojure-style-guide
+babashka,babashka,4000, bash  clojure  scripting  graalvm  shell-scripting  babashka ,https://github.com/babashka/babashka
+status-im,status-mobile,3900, android  ios  clojure  mobile  react-native  clojurescript  ethereum  messenger  blockchain  reagent  re-frame  cryptocurrency  wallet  reactnative  react-native-app ,https://github.com/status-im/status-mobile
+ring-clojure,ring,3700, http  clojure  web  ring ,https://github.com/ring-clojure/ring
+clojure-emacs,cider,3500, clojure  emacs  emacs-lisp  clojure-development  cider ,https://github.com/clojure-emacs/cider
+viebel,klipse,3100, react  javascript  ruby  python  scheme  clojure  lua  clojurescript  reactjs  common-lisp  ocaml  brainfuck  evaluation  prolog  codemirror-editor  reasonml  interactive-snippets  code-evaluation  klipse-plugin ,https://github.com/viebel/klipse
+tallesl,Rich-Hickey-fanclub,3000, clojure  functional-programming  rich-hickey ,https://github.com/tallesl/Rich-Hickey-fanclub

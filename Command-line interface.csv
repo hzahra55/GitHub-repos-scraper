@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+ohmyzsh,ohmyzsh,172000, shell  theme  zsh  cli  productivity  oh-my-zsh  terminal  plugins  themes  cli-app  hacktoberfest  oh-my-zsh-theme  oh-my-zsh-plugin  zsh-configuration  ohmyzsh  plugin-framework ,https://github.com/ohmyzsh/ohmyzsh
+junegunn,fzf,63200, vim  go  bash  zsh  tmux  cli  fish  unix  neovim  fzf ,https://github.com/junegunn/fzf
+sherlock-project,sherlock,53500, python  linux  cli  osint  tools  sherlock  python3  forensics  cybersecurity  infosec  pentesting  cti  hacktoberfest  information-gathering  reconnaissance  redteam ,https://github.com/sherlock-project/sherlock
+jesseduffield,lazygit,49600, git  cli  terminal ,https://github.com/jesseduffield/lazygit
+sharkdp,bat,48400, git  syntax-highlighting  rust  cli  terminal  command-line  tool  hacktoberfest ,https://github.com/sharkdp/bat
+BurntSushi,ripgrep,47100, gitignore  search  rust  cli  command-line  regex  recursively-search  command-line-tool  grep  ripgrep ,https://github.com/BurntSushi/ripgrep
+wagoodman,dive,45000, docker  cli  docker-image  inspector  tui  explorer ,https://github.com/wagoodman/dive
+n8n-io,n8n,43700, docker  cli  workflow  integrations  development  automation  node  typescript  data-flow  self-hosted  ipaas  apis  automated  workflow-automation  low-code  no-code  integration-framework  low-code-development-platform  n8n  low-code-platform ,https://github.com/n8n-io/n8n
+google,zx,42700, nodejs  javascript  shell  bash  cli ,https://github.com/google/zx
+chubin,cheat.sh,38000, cli  documentation  terminal  command-line  curl  examples  help  tldr  cheatsheet  hacktoberfest2021 ,https://github.com/chubin/cheat.sh
+spf13,cobra,37300, go  cli  golang  commandline  command  command-line  posix  subcommands  cli-app  golang-library  cobra  golang-application  cobra-library  cobra-generator  posix-compliant-flags  command-cobra ,https://github.com/spf13/cobra
+cli,cli,36400, git  cli  golang  github-api-v4 ,https://github.com/cli/cli
+httpie,cli,33100, python  api  debugging  cli  http  client  devops  json  development  terminal  web  rest  curl  rest-api  http-client  api-client  developer-tools  usability  api-testing  httpie ,https://github.com/httpie/cli
+sharkdp,fd,33100, search  rust  cli  terminal  command-line  tool  filesystem  regex  hacktoberfest ,https://github.com/sharkdp/fd
+alebcay,awesome-shell,32299, shell  bash  zsh  cli  fish  list  awesome  awesome-list ,https://github.com/alebcay/awesome-shell
+ibraheemdev,modern-unix,30500, shell  cli  lists  unix  terminal  tools  command-line ,https://github.com/ibraheemdev/modern-unix
+tqdm,tqdm,28200, python  cli  console  gui  time  terminal  telegram  utilities  jupyter  progress  discord  progress-bar  parallel  keras  meter  progressbar  pandas  progressmeter  rate  closember ,https://github.com/tqdm/tqdm
+acheong08,ChatGPT,28000, cli  library  pypi-package  chatgpt  gptchat  revchatgpt  gpt-35-turbo ,https://github.com/acheong08/ChatGPT
+google,python-fire,26800, python  cli ,https://github.com/google/python-fire
+angular,angular-cli,26700, cli  angular  typescript  angular-cli ,https://github.com/angular/angular-cli

@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+public-apis,public-apis,310000, api  lists  open-source  list  development  public  resources  dataset  free  software  apis  public-api  public-apis ,https://github.com/public-apis/public-apis
+neovim,neovim,81000, c  vim  api  lua  neovim  nvim  text-editor ,https://github.com/neovim/neovim
+fastapi,fastapi,74700, python  api  json  framework  web  rest  json-schema  async  swagger  openapi  python3  asyncio  swagger-ui  redoc  openapi3  python-types  uvicorn  starlette  pydantic  fastapi ,https://github.com/fastapi/fastapi
+hoppscotch,hoppscotch,63300, testing  api  graphql  http  vuejs  spa  tools  pwa  rest  vue  rest-api  websocket  http-client  api-client  developer-tools  api-rest  testing-tools  api-testing  hacktoberfest ,https://github.com/hoppscotch/hoppscotch
+strapi,strapi,62400, nodejs  javascript  mysql  api  graphql  cms  koa  typescript  rest  dashboard  content-management  customizable  koa2  strapi  cms-framework  jamstack  hacktoberfest  content-management-system  headless-cms  no-code ,https://github.com/strapi/strapi
+ocornut,imgui,58900, api  gamedev  multi-platform  gui  library  framework  ui  tools  cplusplus  native  game-engine  toolkit  imgui  immediate-gui  game-development ,https://github.com/ocornut/imgui
+slatedocs,slate,36000, api  static-site-generator  api-documentation  slate ,https://github.com/slatedocs/slate
+QuivrHQ,quivr,34600, react  javascript  html  api  docker  security  privacy  framework  typescript  database  ai  frontend  vector  chatbot  postgresql  openai  rag  groq  llm  chatgpt ,https://github.com/QuivrHQ/quivr
+Kong,insomnia,34100, api  graphql  curl  rest-api  websockets  grpc  http-client  api-client  electron-app  api-design ,https://github.com/Kong/insomnia
+trpc,trpc,34000, react  api  typescript  nextjs  next  prisma ,https://github.com/trpc/trpc
+httpie,cli,33100, python  api  debugging  cli  http  client  devops  json  development  terminal  web  rest  curl  rest-api  http-client  api-client  developer-tools  usability  api-testing  httpie ,https://github.com/httpie/cli
+ccxt,ccxt,32299, api  bot  library  crypto  bitcoin  trading  ethereum  cryptocurrency  exchange  e-commerce  market-data  strategy  btc  cryptocurrencies  trade  eth  arbitrage  altcoin  merchant  invest ,https://github.com/ccxt/ccxt
+hasura,graphql-engine,31000, api  graphql  bigquery  postgres  haskell  sql-server  mongodb  rest-api  graphql-server  access-control  hasura  graphql-api  subgraph  automatic-api  supergraph ,https://github.com/hasura/graphql-engine
+Binaryify,NeteaseCloudMusicApi,30300, nodejs  javascript  api  apis  neteasecloud  cloudmusic ,https://github.com/Binaryify/NeteaseCloudMusicApi
+encode,django-rest-framework,28000, python  api  django  rest ,https://github.com/encode/django-rest-framework
+YMFE,yapi,27300, api  api-management  api-manager  api-test ,https://github.com/YMFE/yapi
+directus,directus,26900, javascript  mysql  api  graphql  cms  app  node  typescript  sql  database  vue  sqlite  postgresql  mariadb  data-visualization  mssql  directus  composable  headless-cms  no-code ,https://github.com/directus/directus
+littlecodersh,ItChat,25400, api  robot  wechat  itchat ,https://github.com/littlecodersh/ItChat
+PostgREST,postgrest,23000, api  http  postgres  haskell  sql  database  rest  server  postgresql  postgrest  pgsql  pg  automatic-api ,https://github.com/PostgREST/postgrest
+mudler,LocalAI,22700, api  kubernetes  ai  p2p  text-generation  distributed  tts  image-generation  llama  mamba  gemma  mistral  audio-generation  llm  stable-diffusion  rwkv  gpt4all  musicgen  rerank  llama3 ,https://github.com/mudler/LocalAI

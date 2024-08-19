@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+amphp,amp,4200, php  promises  async  asynchronous  coroutines  concurrency  futures  amphp  revolt ,https://github.com/amphp/amp
+danog,MadelineProto,2800, bot  php  telegram  async  proxy  telegram-api  mtproto  easy  voip  madelineproto  hacktoberfest  amphp  stickers  inline-bots  calls  tdlib  secret-chats  tdlib-php  mtproto-api ,https://github.com/danog/MadelineProto
+unreal4u,telegram-api,786, php  composer  telegram  php7  telegram-bot  reactphp  bot-api  telegram-api  wiki-page  amphp  inline-bots ,https://github.com/unreal4u/telegram-api
+amphp,parallel,767, php  multiprocessing  concurrency  parallel  amphp  parallel-processing  revolt ,https://github.com/amphp/parallel
+amphp,http-client,701, php  http  async  https  http-client  amphp  revolt ,https://github.com/amphp/http-client
+amphp,byte-stream,364, php  stream  async  io  non-blocking  amphp ,https://github.com/amphp/byte-stream
+amphp,mysql,352, mysql  php  async  amphp  revolt ,https://github.com/amphp/mysql
+php-service-bus,service-bus,349, async  messaging  command-bus  event-sourcing  publish-subscribe  amphp ,https://github.com/php-service-bus/service-bus
+amphp,parallel-functions,268, php  parallel  amphp ,https://github.com/amphp/parallel-functions
+xtrime-ru,TelegramRSS,227, rss  php  json  telegram  microservice  server  async  self-hosted  amphp ,https://github.com/xtrime-ru/TelegramRSS
+amphp,process,227, php  async  multiprocessing  processes  amphp ,https://github.com/amphp/process
+amphp,socket,220, tls  php  ssl  client  socket  unix  tcp  server  async  udp  io  non-blocking  amphp ,https://github.com/amphp/socket
+amphp,sync,157, php  synchronization  async  concurrency  semaphore  mutex  amphp  revolt ,https://github.com/amphp/sync
+amphp,dns,155, dns  php  async  amphp ,https://github.com/amphp/dns
+amphp,redis,154, redis  php  async  cache  amphp  revolt  amphp-cache  amphp-sync  amphp-mutex ,https://github.com/amphp/redis
+amphp,websocket-client,143, php  async  websockets  amphp ,https://github.com/amphp/websocket-client
+kelunik,acme,121, letsencrypt  php  async  acme  acme-protocol  amphp ,https://github.com/kelunik/acme
+amphp,websocket-server,114, php  http  async  websocket  websockets  rfc-6455  amphp ,https://github.com/amphp/websocket-server
+amphp,serialization,107, php  serialization  amphp ,https://github.com/amphp/serialization
+amphp,cache,97, php  cache  amphp  amphp-cache ,https://github.com/amphp/cache

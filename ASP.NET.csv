@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+bitwarden,server,15000, api  docker  sql  sql-server  csharp  dotnet  aspnetcore  aspnet  dotnet-core  signalr  bitwarden ,https://github.com/bitwarden/server
+abpframework,abp,12700, c-sharp  angular  framework  csharp  aspnetcore  aspnet  architecture  domain-driven-design  saas  dotnet-core  aspnet-core  multi-tenancy  abp  blazor ,https://github.com/abpframework/abp
+dotnet,AspNetCore.Docs,12500, docs  aspnetcore  aspnet  asp  aspnet-core ,https://github.com/dotnet/AspNetCore.Docs
+aspnetboilerplate,aspnetboilerplate,11700, c-sharp  framework  csharp  dotnet  aspnetcore  aspnet  best-practices  architecture  domain-driven-design  dotnet-core  aspnet-core  multi-tenancy  abp  nlayer-architecture ,https://github.com/aspnetboilerplate/aspnetboilerplate
+nopSolutions,nopCommerce,9100, ecommerce  shopping-cart  mvc  shop  dotnet  aspnetcore  aspnet  headless  dotnet-core  ecommerce-platform  e-commerce  asp-net-core  asp-net  cart  sqlserver  net6  net7  net8 ,https://github.com/nopSolutions/nopCommerce
+ElectronNET,Electron.NET,7200, electron  cross-platform  dotnet  aspnet  dotnetcore  dotnet-core  asp-net-core  dotnet-standard  asp-net-core-mvc  blazor  electron-net  blazor-server  blazor-webassembly ,https://github.com/ElectronNET/Electron.NET
+thangchung,clean-code-dotnet,7000, awesome  csharp  solid  dotnet  aspnet  azure  best-practices  clean-code  composition  inheritance  clean-architecture  principles ,https://github.com/thangchung/clean-code-dotnet
+RicoSuter,NSwag,6700, angular  typescript  csharp  aurelia  dotnet  aspnetcore  aspnet  swagger  openapi  codegen  webapi  nswag ,https://github.com/RicoSuter/NSwag
+FastEndpoints,FastEndpoints,4400, aspnet  web-api  vertical-slice-architecture  minimal-api  repr-pattern  fastendpoints ,https://github.com/FastEndpoints/FastEndpoints
+dotnet,aspnet-api-versioning,3000, aspnetcore  aspnet  versioning  webapi  odata  versioning-semantics ,https://github.com/dotnet/aspnet-api-versioning
+mjebrahimi,Awesome-Microservices-DotNet,2700, distributed-systems  awesome  microservices  microservice  dotnet  aspnetcore  aspnet  dotnetcore  distributed  dotnet-core  awesome-list  aspnet-core  asp-net-core  asp-net  microservices-architecture  aspnet-mvc  awesome-lists  microservice-architecture ,https://github.com/mjebrahimi/Awesome-Microservices-DotNet
+smartstore,SmartStoreNET,2600, sass  c-sharp  cms  ecommerce  mvc  shop  aspnet  azure  liquid  e-commerce  ef6  lucene  cart  basket  aspnet-mvc-5  autofac  bootstrap-4  smartstore  pagebuilder  esd ,https://github.com/smartstore/SmartStoreNET
+loic-sharma,BaGet,2600, package-manager  csharp  dotnet  aspnet  nuget  azure ,https://github.com/loic-sharma/BaGet
+serenity-is,Serenity,2600, c-sharp  visual-studio  typescript  aspnetcore  aspnet  rapid  dotnet-core  serenity  application-platform  dotnet6  serenity-platform ,https://github.com/serenity-is/Serenity
+JimBobSquarePants,ImageProcessor,2500, c-sharp  png  aspnet  jpeg  tiff  bmp  gif  webp  image-processor ,https://github.com/JimBobSquarePants/ImageProcessor
+milanm,DotNet-Developer-Roadmap,1800, roadmap  csharp  dotnet  aspnetcore  aspnet  dotnet-core  asp-net-core  asp-net  razor  maui  blazor ,https://github.com/milanm/DotNet-Developer-Roadmap
+TrilonIO,aspnetcore-angular-universal,1500, angular  universal  ngrx  hmr  aspnetcore  aspnet  ssr  angular2  angular4  dotnet-template  angular5  angular6  trilon ,https://github.com/TrilonIO/aspnetcore-angular-universal
+MarimerLLC,csla,1200, c-sharp  xamarin  aspnetcore  aspnet  uwp  wpf  winforms  webassembly  xamarin-forms  asp-net-core  netstandard  asp-net  windows-forms  asp-net-mvc  csla  windowsforms  maui  web-forms  blazor ,https://github.com/MarimerLLC/csla
+TrilonIO,aspnetcore-Vue-starter,1200, vue  aspnetcore  aspnet  ssr  vuejs2  vue2  dotnet-template  trilon ,https://github.com/TrilonIO/aspnetcore-Vue-starter
+smartstore,Smartstore,1100, bootstrap  cms  ecommerce  shopping-cart  csharp  shop  dotnet  aspnetcore  aspnet  azure  rest-api  headless  ecommerce-platform  e-commerce  aspnet-core  asp-net  cms-framework  dxp  headless-commerce  composable-commerce ,https://github.com/smartstore/Smartstore

@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+sindresorhus,awesome,320000, lists  awesome  unicorns  resources  awesome-list ,https://github.com/sindresorhus/awesome
+vinta,awesome-python,216000, python  awesome  python-library  collections  python-framework  python-resources ,https://github.com/vinta/awesome-python
+awesome-selfhosted,awesome-selfhosted,191000, awesome  cloud  privacy  selfhosted  hosting  self-hosted  free-software  awesome-list ,https://github.com/awesome-selfhosted/awesome-selfhosted
+trimstray,the-book-of-secret-knowledge,141000, linux  lists  security  devops  awesome  hacking  resources  bsd  awesome-list  guidelines  hacks  sysops  cheatsheets  search-engines  howtos  pentesters  manuals  one-liners  security-researchers ,https://github.com/trimstray/the-book-of-secret-knowledge
+avelino,awesome-go,127000, go  golang  awesome  awesome-list  golang-library  hacktoberfest ,https://github.com/avelino/awesome-go
+521xueweihan,HelloGitHub,89400, github  python  awesome  hellogithub ,https://github.com/521xueweihan/HelloGitHub
+papers-we-love,papers-we-love,86200, computer-science  meetup  awesome  programming  theory  papers  read-papers ,https://github.com/papers-we-love/papers-we-love
+Hack-with-Github,Awesome-Hacking,81600, android  security  awesome  reverse-engineering  pentesting-windows  hacking  penetration-testing  bug-bounty  fuzzing ,https://github.com/Hack-with-Github/Awesome-Hacking
+jaywcjlove,awesome-mac,74100, macos  mac  list  apple  awesome  software  macosx  awesome-list  mac-osx  awesome-lists ,https://github.com/jaywcjlove/awesome-mac
+DopplerHQ,awesome-interview-questions,69800, javascript  ruby  interviewing  list  awesome  awesomeness  awesome-list  interview-practice  interview-questions  python-interview-questions  rails-interview  javascript-interview-questions  angularjs-interview-questions  android-interview-questions ,https://github.com/DopplerHQ/awesome-interview-questions
+MunGell,awesome-for-beginners,67000, list  awesome  beginner-project  awesome-list  beginners-friendly ,https://github.com/MunGell/awesome-for-beginners
+enaqx,awesome-react,63900, react  javascript  awesome  tutorial  typescript  react-native  react-tutorial  samples  awesome-list  react-apps ,https://github.com/enaqx/awesome-react
+fffaraz,awesome-cpp,58100, c  lists  c-plus-plus  list  awesome  cpp  libraries  resources  awesome-list  cppcon  cpp-library  programming-tutorial ,https://github.com/fffaraz/awesome-cpp
+binhnguyennus,awesome-scalability,57700, computer-science  lists  devops  distributed-systems  machine-learning  awesome  web-development  programming  big-data  system  backend  architecture  scalability  resources  design-patterns  interview  awesome-list  interview-practice  interview-questions  system-design ,https://github.com/binhnguyennus/awesome-scalability
+sindresorhus,awesome-nodejs,57500, nodejs  javascript  list  awesome  node  awesome-list ,https://github.com/sindresorhus/awesome-nodejs
+prakhar1989,awesome-courses,56100, computer-science  awesome  courses  awesome-list ,https://github.com/prakhar1989/awesome-courses
+Solido,awesome-flutter,52700, android  ios  awesome  mobile  material-design  cross-platform  resources  mobile-app  reactive-programming  collections  awesome-list  flutter  mobile-development  dartlang  flutter-plugin  flutter-apps  flutter-plugins  flutter-examples ,https://github.com/Solido/awesome-flutter
+wasabeef,awesome-android-ui,50100, android  awesome  ui ,https://github.com/wasabeef/awesome-android-ui
+tiimgreen,github-cheat-sheet,47100, github  git  list  awesome  awesome-list ,https://github.com/tiimgreen/github-cheat-sheet
+vsouza,awesome-ios,46700, swift-library  ios  awesome  objective-c  swift-extensions  swift-framework  ios-animation  swift-language  apple-swift  swift-programming  objective-c-library  ios-libraries  arkit ,https://github.com/vsouza/awesome-ios

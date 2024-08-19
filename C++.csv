@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+practical-tutorials,project-based-learning,193000, javascript  python  golang  tutorial  cpp  beginner-project  project  webdevelopment ,https://github.com/practical-tutorials/project-based-learning
+CyC2018,CS-Notes,174000, python  java  computer-science  algorithm  leetcode  cpp  interview  system-design ,https://github.com/CyC2018/CS-Notes
+fffaraz,awesome-cpp,58100, c  lists  c-plus-plus  list  awesome  cpp  libraries  resources  awesome-list  cppcon  cpp-library  programming-tutorial ,https://github.com/fffaraz/awesome-cpp
+azl397985856,leetcode,54300, javascript  python  java  computer-science  tree  algorithm  algorithms  leetcode  cpp  interview  algo  data-structures  leetcode-solutions  algorithms-datastructures ,https://github.com/azl397985856/leetcode
+youngyangyang04,leetcode-master,49900, javascript  python  java  go  algorithm  leetcode  cpp  interview  programmer  offer ,https://github.com/youngyangyang04/leetcode-master
+x64dbg,x64dbg,44100, windows  debugger  debugging  security  cpp  x64  x86-64  reverse-engineering  disassembler  hacking  cybersecurity  x86  dynamic-analysis  ctf  malware-analysis  binary-analysis  program-analysis  security-tools  oscp  exploit-development ,https://github.com/x64dbg/x64dbg
+WerWolv,ImHex,42400, windows  c-plus-plus  multi-platform  cpp  static-analysis  reverse-engineering  disassembler  preprocessor  hacking  forensics  analyzer  hex-editor  cybersecurity  dear-imgui  binary-analysis  ips  hacktoberfest  dark-mode  pattern-language  mathematical-evaluator ,https://github.com/WerWolv/ImHex
+Light-City,CPlusPlusThings,38500, cplusplus  cpp  cpp14  cpp11 ,https://github.com/Light-City/CPlusPlusThings
+ClickHouse,ClickHouse,36300, rust  sql  big-data  ai  analytics  cpp  clickhouse  dbms  olap  distributed-database  mpp  hacktoberfest ,https://github.com/ClickHouse/ClickHouse
+huihut,interview,34200, c  algorithm  database  leetcode  cpp  stl  interview  operating-system  data-structures  interviews  interview-practice  interview-questions  interview-preparation ,https://github.com/huihut/interview
+carbon-language,carbon-lang,32299, language  programming-language  experimental  compiler  cpp  experimental-language  carbon-lang ,https://github.com/carbon-language/carbon-lang
+CMU-Perceptual-Computing-Lab,openpose,30600, opencv  machine-learning  real-time  caffe  computer-vision  deep-learning  cpp  face  keypoints  human-pose-estimation  pose-estimation  human-behavior-understanding  cvpr-2017  pose  openpose  human-pose  keypoint-detection  multi-person  hand-estimation  foot-estimation ,https://github.com/CMU-Perceptual-Computing-Lab/openpose
+doocs,leetcode,30400, javascript  java  golang  csharp  algorithms  leetcode  cpp  python3 ,https://github.com/doocs/leetcode
+TheAlgorithms,C-Plus-Plus,29900, search  computer-science  machine-learning  algorithm  algorithms  cpp  machine-learning-algorithms  mathematics  sort  data-structures  educational  algorithm-competitions  interview-questions  hacktoberfest  algorithms-implemented  interview-preparation  artificial-intelligence-algorithms  instructor-materials ,https://github.com/TheAlgorithms/C-Plus-Plus
+microsoft,calculator,29400, windows  xaml  csharp  cpp  uwp  windows-10  windows-11 ,https://github.com/microsoft/calculator
+aseprite,aseprite,28300, c-plus-plus  cpp  sprites  pixel-art  animation  graphics  spritesheet  gif  draw  aseprite  animated-sprites  tilemap-editor  pixel-editor  sprite-editor  tile-editor ,https://github.com/aseprite/aseprite
+dragonflydb,dragonfly,25000, redis  memcached  multi-threading  database  cpp  nosql  key-value  cache  fibers  in-memory  in-memory-database  message-broker  keydb  vector-search  valkey ,https://github.com/dragonflydb/dragonfly
+changkun,modern-cpp-tutorial,23700, cpp  modern-cpp  cpp14  cpp11  cpp17  cpp20  cpp-tutorial ,https://github.com/changkun/modern-cpp-tutorial
+gabime,spdlog,23600, cpp  logging  cpp11  header-only  spdlog ,https://github.com/gabime/spdlog
+ethereum,solidity,22900, language  programming-language  cpp  ethereum  blockchain  solidity  hacktoberfest  smartcontracts ,https://github.com/ethereum/solidity

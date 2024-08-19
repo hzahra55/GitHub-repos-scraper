@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+bitcoin,bitcoin,77900, c-plus-plus  cryptography  bitcoin  p2p  cryptocurrency ,https://github.com/bitcoin/bitcoin
+ccxt,ccxt,32299, api  bot  library  crypto  bitcoin  trading  ethereum  cryptocurrency  exchange  e-commerce  market-data  strategy  btc  cryptocurrencies  trade  eth  arbitrage  altcoin  merchant  invest ,https://github.com/ccxt/ccxt
+OpenBB-finance,OpenBB,28000, python  finance  machine-learning  crypto  artificial-intelligence  cryptocurrency  economics  stocks  quantitative-finance  investment  hacktoberfest  investment-research  openbb ,https://github.com/OpenBB-finance/OpenBB
+freqtrade,freqtrade,27600, python  bitcoin  telegram-bot  trading-bot  cryptocurrency  cryptocurrencies  trade  algorithmic-trading  freqtrade ,https://github.com/freqtrade/freqtrade
+dogecoin,dogecoin,14400, cryptocurrency  wallet  dogecoin ,https://github.com/dogecoin/dogecoin
+monero-project,monero,8800, security  c-plus-plus  cryptography  privacy  cmake  blockchain  p2p  cryptocurrency  monero  cryptonote ,https://github.com/monero-project/monero
+xmrig,xmrig,8600, argon2  cryptocurrency  miner  monero  xmr  cryptonight  cpuminer  xmrig  randomx ,https://github.com/xmrig/xmrig
+hummingbot,hummingbot,7800, open-source  crypto  trading  trading-bot  algo-trading  cryptocurrency  arbitrage  dex  high-frequency-trading ,https://github.com/hummingbot/hummingbot
+kroma-network,tachyon,7800, c-plus-plus  cryptography  blockchain  cuda  cryptocurrency  cpp17  zk  zero-knowledge  tachyon  kroma ,https://github.com/kroma-network/tachyon
+dvf,blockchain,7700, python  flask  bitcoin  blockchain  cryptocurrency ,https://github.com/dvf/blockchain
+lightningnetwork,lnd,7600, cryptography  lightning  bitcoin  protocol  peer-to-peer  blockchain  payments  cryptocurrency  micropayments  lightning-network ,https://github.com/lightningnetwork/lnd
+lbryio,lbry-sdk,7200, python  bittorrent  bitcoin  protocol  decentralized  blockchain  p2p  cryptocurrency  dht  kademlia  lbry ,https://github.com/lbryio/lbry-sdk
+StockSharp,StockSharp,7000, c-sharp  finance  crypto  trading  forex  cryptocurrency  broker  trading-platform  trading-strategies  stocks  quantitative-finance  fixprotocol  hft-trading  algorithmic-trading-engine  algorithmic-trading  trading-robots  bitcoins  brokers  interactive-brokers  backtesting ,https://github.com/StockSharp/StockSharp
+firmai,financial-machine-learning,6800, finance  cryptocurrency  stock-market  quant  trading-strategies  quantitative-finance  investment  algorithmic-trading ,https://github.com/firmai/financial-machine-learning
+cosmos,cosmos-sdk,6100, go  golang  blockchain  cryptocurrency  tendermint  cosmos-sdk  cometbft ,https://github.com/cosmos/cosmos-sdk
+sammchardy,python-binance,5900, python  api  websockets  python3  cryptocurrency  python2  binance ,https://github.com/sammchardy/python-binance
+tendermint,tendermint,5700, go  distributed-systems  cryptography  consistency  blockchain  consensus  cryptocurrency  db  bft ,https://github.com/tendermint/tendermint
+jesse-ai,jesse,5500, python  bot  framework  crypto  bitcoin  trading  trading-bot  algo-trading  cryptocurrency  trading-strategies  trading-algorithms  trade  quantitative-finance  algorithmic-trading  quantitative-trading  jesse  crypto-bot  crypto-bot-trading ,https://github.com/jesse-ai/jesse
+sea-protocol,seaprotocol,5100, cryptocurrency  dex  defi ,https://github.com/sea-protocol/seaprotocol
+mimblewimble,grin,5000, rust  cryptography  cryptocurrency  grin  mimblewimble  zero-knowledge-proofs ,https://github.com/mimblewimble/grin

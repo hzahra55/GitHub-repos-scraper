@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+realm,SwiftLint,18500, swift  linting  linter  static-analysis  code-quality  hacktoberfest ,https://github.com/realm/SwiftLint
+facebook,infer,14900, c  java  objective-c  cpp  static-code-analysis  static-analysis  code-quality ,https://github.com/facebook/infer
+analysis-tools-dev,static-analysis,13100, analysis  static-code-analysis  linter  static-analysis  awesome-list  code-quality  static-analyzers  sast ,https://github.com/analysis-tools-dev/static-analysis
+federico-busato,Modern-CPP-Programming,11700, debugging  template  c-plus-plus  programming  course  cpp  optimization  cpp14  cpp11  courses  compilers  cpp17  code-quality  cpp20  cpp03  cpp-programming  cpp23  cpp26 ,https://github.com/federico-busato/Modern-CPP-Programming
+Kristories,awesome-guidelines,9700, coding-conventions  awesome  style-guide  awesome-list  code-quality  guidelines  hacktoberfest  style-conventions  awesome-guidelines ,https://github.com/Kristories/awesome-guidelines
+super-linter,super-linter,9300, ci  linter  actions  code-quality  quality-check  code-quality-analyzer  super-linter ,https://github.com/super-linter/super-linter
+SonarSource,sonarqube,8800, static-analysis  sonarqube  code-quality ,https://github.com/SonarSource/sonarqube
+checkstyle,checkstyle,8300, java  static-code-analysis  static-analysis  code-quality  command-line-tool ,https://github.com/checkstyle/checkstyle
+reviewdog,reviewdog,7700, github  lint  go  cli  gitlab  static-code-analysis  ci  linter  static-analysis  bitbucket  code-review  code-quality  codereview ,https://github.com/reviewdog/reviewdog
+facebook,pyre-check,6800, python  security  typechecker  static-analysis  ocaml  control-flow-analysis  code-quality  program-analysis  taint-analysis  abstract-interpretation  type-check ,https://github.com/facebook/pyre-check
+detekt,detekt,6200, kotlin  lint  analysis  linter  static-analysis  static  gradle-plugin  code-quality  hacktoberfest  codesmells ,https://github.com/detekt/detekt
+trekhleb,state-of-the-art-shitcode,5500, javascript  styleguide  programming  best-practices  principles  coding  code-quality  best-practice  style-guides ,https://github.com/trekhleb/state-of-the-art-shitcode
+import-js,eslint-plugin-import,5400, javascript  lint  eslint  linting  eslint-plugin  import  code-quality  hacktoberfest ,https://github.com/import-js/eslint-plugin-import
+pylint-dev,pylint,5200, static-code-analysis  linter  static-analysis  code-quality  pep8  hacktoberfest  closember ,https://github.com/pylint-dev/pylint
+pmd,pmd,4800, java  swift  static-code-analysis  linter  static-analysis  code-analysis  plsql  apex  code-quality ,https://github.com/pmd/pmd
+simplecov-ruby,simplecov,4700, ruby  rails  coverage  coverage-report  test-coverage  code-quality  coverage-library ,https://github.com/simplecov-ruby/simplecov
+kucherenko,jscpd,4600, quality  duplicates  detector  code-quality  cpd  copy-paste  duplications  clones-detection  detect-duplications ,https://github.com/kucherenko/jscpd
+phpro,grumphp,4100, php  composer-plugin  code-quality  git-hooks  hacktoberfest ,https://github.com/phpro/grumphp
+htmlhint,HTMLHint,3100, javascript  html  analysis  code-analysis  code-quality  htmlhint  hint ,https://github.com/htmlhint/HTMLHint
+codeclimate,codeclimate,2500, docker  quality  static-code-analysis  static-analysis  code-quality  codeclimate  codeclimate-engine  climate-cli ,https://github.com/codeclimate/codeclimate

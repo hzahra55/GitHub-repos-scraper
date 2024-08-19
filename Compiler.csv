@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+vercel,next.js,124000, react  blog  static-site-generator  components  node  browser  compiler  universal  nextjs  static  server-rendering  hybrid  ssg  vercel ,https://github.com/vercel/next.js
+rust-lang,rust,96100, language  rust  compiler  hacktoberfest ,https://github.com/rust-lang/rust
+sveltejs,svelte,78000, template  ui  compiler ,https://github.com/sveltejs/svelte
+webpack,webpack,64400, javascript  web-performance  webpack  web  es6  compiler  commonjs  amd  es2015  plugins  javascript-compiler  build-tool  loaders  module-bundler  esm  javascript-modules ,https://github.com/webpack/webpack
+FuelLabs,sway,62800, language  compiler  fuel  sway ,https://github.com/FuelLabs/sway
+gatsbyjs,gatsby,55200, react  blog  graphql  static-site-generator  compiler  web-app  gatsby ,https://github.com/gatsbyjs/gatsby
+JetBrains,kotlin,48600, kotlin  programming-language  compiler  webassembly  wasm  kotlin-library  maven-plugin  gradle-plugin  intellij-plugin ,https://github.com/JetBrains/kotlin
+parcel-bundler,parcel,43300, javascript  css  html  web  modules  es6  compiler  assets  commonjs  build-tool  module-bundler ,https://github.com/parcel-bundler/parcel
+babel,babel,43100, javascript  babel  es6  compiler  es2015  ast  flavortown ,https://github.com/babel/babel
+evanw,esbuild,37800, react  javascript  css  bundler  typescript  compiler  jsx  commonjs  minifier  tsx  esm ,https://github.com/evanw/esbuild
+vlang,v,35600, language  programming-language  compiler  v ,https://github.com/vlang/v
+ziglang,zig,33300, language  compiler  zig ,https://github.com/ziglang/zig
+markedjs,marked,32600, markdown  gfm  parser  compiler  commonmark  hacktoberfest ,https://github.com/markedjs/marked
+carbon-language,carbon-lang,32299, language  programming-language  experimental  compiler  cpp  experimental-language  carbon-lang ,https://github.com/carbon-language/carbon-lang
+typst,typst,32100, compiler  markup  typesetting ,https://github.com/typst/typst
+swc-project,swc,30800, javascript  rust  parser  babel  typescript  compiler  ecmascript  swc  typescript-compiler  typescript-parser  ecmascript-parser ,https://github.com/swc-project/swc
+vercel,pkg,24300, nodejs  cli  compiler  binaries ,https://github.com/vercel/pkg
+v8,v8,23100, javascript  interpreter  compiler  virtual-machine  javascript-engine ,https://github.com/v8/v8
+oracle,graal,20100, java  compiler  aot  graalvm ,https://github.com/oracle/graal
+crystal-lang,crystal,19300, programming-language  crystal  compiler  hacktoberfest  crystal-language ,https://github.com/crystal-lang/crystal

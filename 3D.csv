@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+mrdoob,three.js,101000, javascript  svg  webgl  html5  canvas  augmented-reality  webaudio  virtual-reality  webgl2  3d  webgpu  webxr ,https://github.com/mrdoob/three.js
+pmndrs,react-three-fiber,26900, react  threejs  animation  renderer  fiber  3d ,https://github.com/pmndrs/react-three-fiber
+libgdx,libgdx,23100, android  game  java  windows  linux  ios  gamedev  framework  html5  cross-platform  game-engine  libgdx  game-development  macosx  3d  2d ,https://github.com/libgdx/libgdx
+BabylonJS,Babylon.js,22900, webgl  typescript  game-engine  webvr  game-development  webaudio  babylon  webgl2  game-engine-3d  3d  webgpu  webxr ,https://github.com/BabylonJS/Babylon.js
+ssloy,tinyrenderer,20100, learning  c-plus-plus  fun  tutorial  opengl  cpp  shaders  picture  graphics  software-rendering  engine  rendering  images  computer-graphics  pixels  rasterizer  rendering-engine  rendering-pipeline  3d  3d-graphics ,https://github.com/ssloy/tinyrenderer
+FreeCAD,FreeCAD,18600, windows  linux  engineering  architecture  cad  mac-osx  fem  coin  bim  freecad  3d-printing  3d  opencascade ,https://github.com/FreeCAD/FreeCAD
+lettier,3d-game-shaders-for-beginners,17600, gamedev  webgl  opengl  unity  shaders  graphics  vulkan  game-development  glsl  shader  unity3d  godot  graphics-programming  hlsl  panda3d  glsl-shader  indiedev  glsl-shaders  3d  3d-graphics ,https://github.com/lettier/3d-game-shaders-for-beginners
+aframevr,aframe,16500, html  gamedev  webgl  threejs  game-engine  augmented-reality  vr  webvr  virtualreality  vive  oculus  rift  game-development  ecs  aframe  virtual-reality  metaverse  daydream  3d  webxr ,https://github.com/aframevr/aframe
+CesiumGS,cesium,12600, webgl  geospatial  gis  cesium  czml  gltf  3d  3d-globe  3d-tiles ,https://github.com/CesiumGS/cesium
+blender,blender,12500, animation  rendering  computer-graphics  modeling  b3d  3d ,https://github.com/blender/blender
+MonoGame,MonoGame,11200, c-sharp  open-source  gamedev  xna  csharp  cross-platform  game-engine  dotnet  graphics  game-development  game-framework  monogame  3d ,https://github.com/MonoGame/MonoGame
+isl-org,Open3D,11000, visualization  python  machine-learning  arm  gui  opengl  cpp  tensorflow  gpu  rendering  computer-graphics  cuda  pytorch  registration  reconstruction  3d  odometry  pointcloud  mesh-processing  3d-perception ,https://github.com/isl-org/Open3D
+mapbox,mapbox-gl-js,11000, javascript  webgl  maps  priority  3d ,https://github.com/mapbox/mapbox-gl-js
+metafizzy,zdog,10300, svg  canvas  3d ,https://github.com/metafizzy/zdog
+timzhang642,3D-Machine-Learning,9600, machine-learning  voxel  point-cloud  primitives  mesh  neural-networks  papers  constructive-solid-geometries  3d  3d-reconstruction ,https://github.com/timzhang642/3D-Machine-Learning
+nerfstudio-project,nerfstudio,9100, machine-learning  computer-vision  deep-learning  pytorch  photogrammetry  nerf  3d  3d-reconstruction  3d-graphics  gaussian-splatting ,https://github.com/nerfstudio-project/nerfstudio
+4ian,GDevelop,8600, javascript  game  open-source  c-plus-plus  gamedev  html5  game-engine  multiplayer  game-development  game-2d  gamemaker  gdevelop  game-3d  hacktoberfest  3d  3d-game-engine  2d-game  2d-game-engine  3d-game  html5-game-engine ,https://github.com/4ian/GDevelop
+a1studmuffin,SpaceshipGenerator,7600, python  procedural-generation  blender-scripts  game-development  3d  spaceship ,https://github.com/a1studmuffin/SpaceshipGenerator
+FyroxEngine,Fyrox,7600, rust  gamedev  gui  game-engine  engine  rendering  game-development  rust-lang  3d  3d-engine ,https://github.com/FyroxEngine/Fyrox
+domlysz,BlenderGIS,7600, python  map  blender  addon  openstreetmap  geospatial  gis  geodata  raster  shapefile  georeferencing  dem  3d  delaunay-triangulation  3dgis  importexport  terrain-model  basemap  3d-map ,https://github.com/domlysz/BlenderGIS

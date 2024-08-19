@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+electron,electron,113000, electron  nodejs  javascript  css  html  c-plus-plus  chrome  v8  works-with-codespaces ,https://github.com/electron/electron
+puppeteer,puppeteer,88000, testing  firefox  chrome  automation  web  chromium  developer-tools  node-module  headless-chrome ,https://github.com/puppeteer/puppeteer
+microsoft,playwright,64800, electron  javascript  testing  firefox  chrome  automation  web  test  chromium  test-automation  testing-tools  webkit  end-to-end-testing  e2e-testing  playwright ,https://github.com/microsoft/playwright
+iamadamdev,bypass-paywalls-chrome,48400, chrome-extension  firefox  chrome  firefox-addon  firefox-extension  bypass  chrome-extensions  paywall  bypass-paywalls ,https://github.com/iamadamdev/bypass-paywalls-chrome
+FiloSottile,mkcert,48000, windows  macos  linux  tls  firefox  ios  chrome  https  certificates  localhost  local-development  root-ca ,https://github.com/FiloSottile/mkcert
+jaywcjlove,linux-command,30800, chrome-extension  search  linux  bash  ssh  screenshot  chrome  tools  command-line  gh-pages  screen  ls  linux-command  web-tools ,https://github.com/jaywcjlove/linux-command
+ovity,octotree,22800, github  firefox  chrome  opera  safari  edge  code-review  browser-extension  code-files  pull-request-review ,https://github.com/ovity/octotree
+segment-boneyard,nightmare,19500, electron  chrome  browser  phantomjs  headless-chrome ,https://github.com/segment-boneyard/nightmare
+checkly,headless-recorder,15000, chrome-extension  chrome  vue  puppeteer  playwright ,https://github.com/checkly/headless-recorder
+GoogleChrome,chrome-extensions-samples,15000, chrome ,https://github.com/GoogleChrome/chrome-extensions-samples
+gildas-lormeau,SingleFile,14600, javascript  chrome-extension  cli  firefox  screenshot  chrome  osint  browser  firefox-addon  annotations  snapshot  selenium  archive  archiver  self-extracting-zip  web-clipper  puppeteer  auto-save  offline-reading  self-extracting ,https://github.com/gildas-lormeau/SingleFile
+google,WebFundamentals,13900, javascript  css  html  chrome  web  html5  progressive-web-app  best-practices  web-app  chrome-browser  mobile-web ,https://github.com/google/WebFundamentals
+schickling,chromeless,13200, chrome  serverless  integration-testing  headless  selenium  graphcool  nightmarejs  headless-chrome ,https://github.com/schickling/chromeless
+casesandberg,react-color,12000, react  chrome  photoshop  sketch  color-picker  react-component  inline-styles ,https://github.com/casesandberg/react-color
+crimx,ext-saladict,11900, react  chrome-extension  firefox  chrome  typescript  rxjs  extension  dictionaries  firefox-addon  webextension  firefox-extension  saladict ,https://github.com/crimx/ext-saladict
+MetaMask,metamask-extension,11800, firefox  chrome  extension  opera  ethereum  dapp  edge  brave  dapp-developers ,https://github.com/MetaMask/metamask-extension
+chromedp,chromedp,10700, testing  golang  unit-testing  chrome  chrome-devtools  chrome-debugging-protocol  headless ,https://github.com/chromedp/chromedp
+moonD4rk,HackBrowserData,10500, windows  macos  golang  firefox  chrome  browser  hacking  edge  browser-extension  pentest-tool ,https://github.com/moonD4rk/HackBrowserData
+ajayyy,SponsorBlock,9600, chrome-extension  firefox  chrome  youtube  opera  chromium  firefox-extension  adblock  web-extension  youtube-videos  adblocker  hacktoberfest  sponsored-segments  sponsorblock ,https://github.com/ajayyy/SponsorBlock
+ultrafunkamsterdam,undetected-chromedriver,9400, testing  chrome  automation  webdriver  browser  captcha  scraping  selenium  navigator  python3  cloudflare  chromedriver  anti-bot  bot-detection  cloudflare-bypass  distil  anti-detection ,https://github.com/ultrafunkamsterdam/undetected-chromedriver

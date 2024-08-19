@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+ccxt,ccxt,32299, api  bot  library  crypto  bitcoin  trading  ethereum  cryptocurrency  exchange  e-commerce  market-data  strategy  btc  cryptocurrencies  trade  eth  arbitrage  altcoin  merchant  invest ,https://github.com/ccxt/ccxt
+python-telegram-bot,python-telegram-bot,25700, python  bot  framework  telegram  chatbot  hacktoberfest ,https://github.com/python-telegram-bot/python-telegram-bot
+discordjs,discord.js,25200, nodejs  bot  discord  discordjs  discord-bot  discord-api  discord-server  hacktoberfest  voice-support ,https://github.com/discordjs/discord.js
+wechaty,wechaty,19800, bot  framework  robotics  chatbot  whatsapp  wechat  qq  wechaty  conversational-ai ,https://github.com/wechaty/wechaty
+RasaHQ,rasa,18500, nlp  bot  machine-learning  natural-language-processing  bots  botkit  chatbot  bot-framework  nlu  spacy  mitie  chatbots  machine-learning-library  wit  rasa  conversational-agents  conversational-bots  chatbots-framework  conversational-ai  conversation-driven-development ,https://github.com/RasaHQ/rasa
+InstaPy,InstaPy,16700, python  bot  instagram  automation  script  selenium  clarifai ,https://github.com/InstaPy/InstaPy
+hubotio,hubot,16600, hubot  chat  bot ,https://github.com/hubotio/hubot
+leon-ai,leon,15100, nodejs  python  bot  text-to-speech  automation  privacy  ai  offline  chatbot  artificial-intelligence  speech-synthesis  assistant  speech-recognition  personal-assistant  speech-to-text  leon  flite  voice-assistant  virtual-assistant  ai-assistant ,https://github.com/leon-ai/leon
+pedroslopez,whatsapp-web.js,14900, api  bot  bot-api  whatsapp  whatsapp-web  hacktoberfest  whatsapp-bot  whatsapp-api  whatsapp-web-api ,https://github.com/pedroslopez/whatsapp-web.js
+Rapptz,discord.py,14700, python  bot  discord  discord-bot  discord-api  discord-py  python-3 ,https://github.com/Rapptz/discord.py
+tgbot-collection,YYeTsBot,14100, bot  movies  telegram-bot  tv-shows  yyets  zimuxia ,https://github.com/tgbot-collection/YYeTsBot
+gunthercox,ChatterBot,14000, python  bot  language  machine-learning  chatbot  chatterbot  conversation ,https://github.com/gunthercox/ChatterBot
+lss233,chatgpt-mirai-qq-bot,12800, bot  telegram  discord  mirai  openai  wechat  qq  poe  sydney  qqbot  bard  ernie  go-cqhttp  chatgpt  mirai-qq  new-bing  chatglm-6b  xinghuo ,https://github.com/lss233/chatgpt-mirai-qq-bot
+howdyai,botkit,11400, slack  bot  facebook  bots  twilio  facebook-bot  botkit  chatbot  sms  facebook-messenger  microsoft-bot-framework  conversational-ui  cisco-spark  glitch  botkit-studio  bot-application  making-bots  microsoft-teams  workplacebyfacebook  web-bot ,https://github.com/howdyai/botkit
+Mrs4s,go-cqhttp,10400, bot  qqbot  coolq  qqrobot  coolq-http-api ,https://github.com/Mrs4s/go-cqhttp
+sfyc23,EverydayWechat,9900, python  chat  bot  ai  chatbot  python3  wechat  itchat  autoreply  tuling ,https://github.com/sfyc23/EverydayWechat
+yagop,node-telegram-bot-api,8200, nodejs  api  bot  telegram  chatbot  bot-framework ,https://github.com/yagop/node-telegram-bot-api
+telegraf,telegraf,8100, bot  middleware  telegram  telegram-bot  bot-framework  bot-api  telegraf  telegram-bots  telegram-bot-api  hacktoberfest ,https://github.com/telegraf/telegraf
+microsoft,ailab,7700, javascript  bot  iot  ocr  html5  translation  ai  computer-vision  csharp  algorithms  language-learning  dnn  azure-functions  image-classification  object-detection  luis  bing-search  custom-vision ,https://github.com/microsoft/ailab
+microsoft,botframework-sdk,7500, nodejs  javascript  python  java  bot  typescript  sdk  csharp  dotnetcore  bot-framework  microsoft-bot-framework  bot-builder  azure-bot-service ,https://github.com/microsoft/botframework-sdk

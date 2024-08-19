@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+bitcoin,bitcoin,77900, c-plus-plus  cryptography  bitcoin  p2p  cryptocurrency ,https://github.com/bitcoin/bitcoin
+ccxt,ccxt,32299, api  bot  library  crypto  bitcoin  trading  ethereum  cryptocurrency  exchange  e-commerce  market-data  strategy  btc  cryptocurrencies  trade  eth  arbitrage  altcoin  merchant  invest ,https://github.com/ccxt/ccxt
+freqtrade,freqtrade,27600, python  bitcoin  telegram-bot  trading-bot  cryptocurrency  cryptocurrencies  trade  algorithmic-trading  freqtrade ,https://github.com/freqtrade/freqtrade
+bitcoinbook,bitcoinbook,23300, bitcoin  blockchain  bitcoin-api  oreilly  oreilly-books ,https://github.com/bitcoinbook/bitcoinbook
+HelloZeroNet,ZeroNet,18300, python  torrent  web  bittorrent  bitcoin  decentralized  realtime  p2p  tor  anticensorship  internet-freedom  anonymity ,https://github.com/HelloZeroNet/ZeroNet
+solana-labs,solana,12900, rust  bitcoin  blockchain  ledger  rustc  solana  performance-blockchain ,https://github.com/solana-labs/solana
+bbfamily,abu,11700, machine-learning  bitcoin  trading  numpy  pandas  stock  quant  matplotlib  trade  algorithmic-trading  quantitative-trading ,https://github.com/bbfamily/abu
+askmike,gekko,10100, bitcoin  trading-bot  exchange  trading-strategies  gekko ,https://github.com/askmike/gekko
+dvf,blockchain,7700, python  flask  bitcoin  blockchain  cryptocurrency ,https://github.com/dvf/blockchain
+lightningnetwork,lnd,7600, cryptography  lightning  bitcoin  protocol  peer-to-peer  blockchain  payments  cryptocurrency  micropayments  lightning-network ,https://github.com/lightningnetwork/lnd
+spesmilo,electrum,7300, python  lightning  bitcoin  electrum  bitcoin-wallet  lightning-network ,https://github.com/spesmilo/electrum
+lbryio,lbry-sdk,7200, python  bittorrent  bitcoin  protocol  decentralized  blockchain  p2p  cryptocurrency  dht  kademlia  lbry ,https://github.com/lbryio/lbry-sdk
+getumbrel,umbrel,7100, docker  raspberry-pi  lightning  bitcoin  raspberrypi  selfhosted  homeserver  self-hosted  self-hosting  personal-server  home-server ,https://github.com/getumbrel/umbrel
+UFund-Me,Qbot,6800, machine-learning  deep-learning  bitcoin  blockchain  fintech  quantitative-finance  trademarks  quantization  funds  strategies  quantitative-trading  pytrade  qlib  quant-trade  trade-bot  quant-trader ,https://github.com/UFund-Me/Qbot
+yeasy,blockchain_guide,6800, bitcoin  book  ethereum  blockchain  technology  fintech  hyperledger  distributed-system  distributed-ledger ,https://github.com/yeasy/blockchain_guide
+btcpayserver,btcpayserver,6300, bitcoin  selfhosted  crowdfunding  payment-gateway  lightning-network  point-of-sale  bitcoin-payment-gateway  bitcoin-payment-processor ,https://github.com/btcpayserver/btcpayserver
+btcsuite,btcd,6100, bitcoin  hacktoberfest  btcd ,https://github.com/btcsuite/btcd
+bitcoinjs,bitcoinjs-lib,5600, nodejs  javascript  browserify  bitcoin  bitcoinjs  bitcoinjs-lib ,https://github.com/bitcoinjs/bitcoinjs-lib
+jesse-ai,jesse,5500, python  bot  framework  crypto  bitcoin  trading  trading-bot  algo-trading  cryptocurrency  trading-strategies  trading-algorithms  trade  quantitative-finance  algorithmic-trading  quantitative-trading  jesse  crypto-bot  crypto-bot-trading ,https://github.com/jesse-ai/jesse
+anders94,blockchain-demo,5200, bitcoin  blockchain  blockchain-technology ,https://github.com/anders94/blockchain-demo

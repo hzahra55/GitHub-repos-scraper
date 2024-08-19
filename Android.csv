@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+flutter,flutter,164000, android  windows  macos  dart  ios  mobile  web  material-design  cross-platform  desktop  web-framework  app-framework  flutter  skia  linux-desktop  fuchsia  mobile-development  dart-platform  flutter-package ,https://github.com/flutter/flutter
+facebook,react-native,118000, react  android  ios  mobile  react-native  cross-platform  app-framework  mobile-development ,https://github.com/facebook/react-native
+justjavac,free-programming-books-zh_CN,111000, react  javascript  android  kotlin  python  swift  pdf  ios  angular  react-native  programming  books  vue  free ,https://github.com/justjavac/free-programming-books-zh_CN
+Genymobile,scrcpy,108000, android  c  ffmpeg  sdl2  screen  libav  recording  mirroring ,https://github.com/Genymobile/scrcpy
+Hack-with-Github,Awesome-Hacking,81600, android  security  awesome  reverse-engineering  pentesting-windows  hacking  penetration-testing  bug-bounty  fuzzing ,https://github.com/Hack-with-Github/Awesome-Hacking
+Solido,awesome-flutter,52700, android  ios  awesome  mobile  material-design  cross-platform  resources  mobile-app  reactive-programming  collections  awesome-list  flutter  mobile-development  dartlang  flutter-plugin  flutter-apps  flutter-plugins  flutter-examples ,https://github.com/Solido/awesome-flutter
+google,material-design-icons,50300, android  ios  web  material  material-design  sprites  icons ,https://github.com/google/material-design-icons
+wasabeef,awesome-android-ui,50100, android  awesome  ui ,https://github.com/wasabeef/awesome-android-ui
+tldr-pages,tldr,50000, android  windows  macos  linux  shell  console  documentation  terminal  osx  command-line  man-page  examples  help  tldr  cheatsheet  manual  bsd  hacktoberfest  manpages  cheatsheets ,https://github.com/tldr-pages/tldr
+square,okhttp,45600, android  kotlin  java  graalvm ,https://github.com/square/okhttp
+laurent22,joplin,44800, electron  nodejs  javascript  android  react-native  dropbox  synchronisation  nextcloud  onedrive  webdav  note-taking  evernote  web-clipper  enex-files  joplin ,https://github.com/laurent22/joplin
+android,architecture-samples,44200, android  samples  android-architecture ,https://github.com/android/architecture-samples
+appwrite,appwrite,43200, react  javascript  android  swift  docker  ios  firebase  react-native  web  serverless  backend  nextjs  selfhosted  self-hosted  reactnative  flutter  hacktoberfest  backend-as-a-service  appwrite ,https://github.com/appwrite/appwrite
+square,retrofit,42900, android  java ,https://github.com/square/retrofit
+skylot,jadx,40600, android  java  decompiler  dex ,https://github.com/skylot/jadx
+dcloudio,uni-app,39800, javascript  android  ios  vue  cross-platform  uni  crossplatform  uniapp  miniprogram  vue3  uni-app  hbuilderx ,https://github.com/dcloudio/uni-app
+fastlane,fastlane,39000, ruby  android  ios  screenshots  automation  mobile  deployment  fastlane  apps  hacktoberfest  hacktoberfest2021 ,https://github.com/fastlane/fastlane
+PhilJay,MPAndroidChart,37500, android  java  chart  graph  mpandroidchart ,https://github.com/PhilJay/MPAndroidChart
+shadowsocks,shadowsocks-android,34900, android  shadowsocks ,https://github.com/shadowsocks/shadowsocks-android
+airbnb,lottie-android,34900, android  animation  airbnb  after-effects  lottie ,https://github.com/airbnb/lottie-android

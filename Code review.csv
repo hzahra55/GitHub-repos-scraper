@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+ovity,octotree,22800, github  firefox  chrome  opera  safari  edge  code-review  browser-extension  code-files  pull-request-review ,https://github.com/ovity/octotree
+gitpod-io,gitpod,12700, editor  cloud  jetbrains  ide  vscode  cloud-ide  code-review  disposable  developer-experience  ephemeral  cloud-development  dev-environment  cde  developer-environment  gitpod  prebuilds  remote-development  remote-devtools  cloud-development-environments ,https://github.com/gitpod-io/gitpod
+reviewdog,reviewdog,7700, github  lint  go  cli  gitlab  static-code-analysis  ci  linter  static-analysis  bitbucket  code-review  code-quality  codereview ,https://github.com/reviewdog/reviewdog
+danger,danger,5400, github  automation  gitlab  ci  danger  bitbucket  travis  circle  code-review ,https://github.com/danger/danger
+Codium-ai,pr-agent,5300, devtools  openai  pull-request  code-review  pull-requests  codereview  coding-assistant  gpt-4 ,https://github.com/Codium-ai/pr-agent
+danger,danger-js,5200, jenkins  ci  danger  travis  circle  code-review  danger-js  github-actions ,https://github.com/danger/danger-js
+joho,awesome-code-review,4300, awesome  code-review  awesome-list  code-reviews ,https://github.com/joho/awesome-code-review
+ajinabraham,nodejsscan,2400, nodejs  javascript  lint  security  node  static-analysis  code-analysis  code-review  security-scanner  devsecops  sast  node-security  nodejsscan ,https://github.com/ajinabraham/nodejsscan
+microsoft,vscode-pull-request-github,2300, github  vscode  code-review  pull-requests ,https://github.com/microsoft/vscode-pull-request-github
+crev-dev,cargo-crev,2100, security  review  scalable  code  decentralized  p2p  code-review  trust ,https://github.com/crev-dev/cargo-crev
+houndci,hound,2000, react  javascript  ruby  rails  review  continuous-integration  code-review  hound ,https://github.com/houndci/hound
+mbj,mutant,1900, ruby  coverage  mutation-testing  rspec  static-analysis  code-review  dynamic-analysis  mutant  minitest  code-quality-analyzer  static-anaysis  uncovered-semantics ,https://github.com/mbj/mutant
+Tencent,CodeAnalysis,1600, code-analysis  code-review  code-quality  program-analysis  python37  code-quality-analyzer ,https://github.com/Tencent/CodeAnalysis
+reviewboard,reviewboard,1600, javascript  python  developer-tools  code-review  codereview ,https://github.com/reviewboard/reviewboard
+mattzcarey,code-review-gpt,1500, github  opensource  ci  azure  code-analysis  openai  code-review  code-quality  azure-devops  huggingface  gpt-3  gpt4  llm  llms  chatgpt  langchain  langchain-typescript  gpt-4-turbo ,https://github.com/mattzcarey/code-review-gpt
+ryanmcdermott,code-review-tips,1500, javascript  reviews  readability  code-review  review-process  review-tips ,https://github.com/ryanmcdermott/code-review-tips
+coderabbitai,ai-pr-reviewer,1500, openai  code-review  github-action  gpt-4 ,https://github.com/coderabbitai/ai-pr-reviewer
+bit4woo,python_sec,1300, python  security  django  code-review  python-security  python-django  dangerous-python-functions ,https://github.com/bit4woo/python_sec
+code-review-checklists,java-concurrency,1300, java  checklist  concurrency  code-review  thread-safety  race-conditions  java-concurrency ,https://github.com/code-review-checklists/java-concurrency
+jiangsir404,Audit-Learning,966, php  security  audit  code-review ,https://github.com/jiangsir404/Audit-Learning

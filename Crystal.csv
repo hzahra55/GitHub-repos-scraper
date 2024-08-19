@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+crystal-lang,crystal,19300, programming-language  crystal  compiler  hacktoberfest  crystal-language ,https://github.com/crystal-lang/crystal
+kemalcr,kemal,3600, api  fast  json  crystal  rest  simple  websocket  efficient  web-framework  kemal ,https://github.com/kemalcr/kemal
+veelenga,awesome-crystal,3300, list  crystal  awesome  awesome-list  shards ,https://github.com/veelenga/awesome-crystal
+luckyframework,lucky,2600, crystal  web  web-framework  lucky-framework ,https://github.com/luckyframework/lucky
+amberframework,amber,2600, cli  fast  crystal  framework  web  efficient  web-framework  scaffolding  amber  cohesive  amber-framework ,https://github.com/amberframework/amber
+getmango,Mango,1700, crystal  manga  self-hosted  web-application  manga-reader  crystal-lang  mangadex  manga-server ,https://github.com/getmango/Mango
+vitobotta,hetzner-k3s,1700, docker  kubernetes  devops  crystal  k8s  crystal-language  hetzner  hetzner-cloud  crystal-lang  k3s  hetzner-api ,https://github.com/vitobotta/hetzner-k3s
+ffwff,lilith,1100, crystal  operating-system ,https://github.com/ffwff/lilith
+drujensen,fib,857, javascript  ruby  python  go  dart  swift  rust  php  crystal  node  r  elixir  csharp  cpp  julia  perl  clang  python3  java-8  fibonacci-benchmark ,https://github.com/drujensen/fib
+amethyst-framework,amethyst,649, middleware  crystal ,https://github.com/amethyst-framework/amethyst
+hanabi1224,Programming-Language-Benchmarks,627, javascript  kotlin  java  go  rust  golang  benchmark  crystal  typescript  nim  vue  csharp  benchmarks  kotlin-native  vlang  benchmarks-game  ci-job ,https://github.com/hanabi1224/Programming-Language-Benchmarks
+askn,crystal-by-example,549, crystal  examples ,https://github.com/askn/crystal-by-example
+owasp-noir,noir,546, security  crystal  owasp  pentesting  hacktoberfest  devsecops  endpoints  crystal-lang  noir  attack-surfaces  attack-surface-detector  owasp-noir ,https://github.com/owasp-noir/noir
+crystal-ameba,ameba,511, crystal  linter  static-analysis  code-analysis  ameba ,https://github.com/crystal-ameba/ameba
+crystal-community,icr,502, crystal  repl ,https://github.com/crystal-community/icr
+will,crystal-pg,463, postgres  crystal ,https://github.com/will/crystal-pg
+elbywan,crystalline,434, crystal  lsp  vscode-language  lsp-server ,https://github.com/elbywan/crystalline
+imdrasil,jennifer.cr,416, mysql  activerecord  crystal  orm  postgresql  crystal-language  chainable-methods ,https://github.com/imdrasil/jennifer.cr
+vim-crystal,vim-crystal,413, syntax-highlighting  vim  crystal  vim-plugin ,https://github.com/vim-crystal/vim-crystal
+martenframework,marten,402, http  crystal  framework  web  server  backend  web-framework  webapp  crystal-language  webapplication  crystal-lang ,https://github.com/martenframework/marten

@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+bregman-arie,devops-exercises,65500, python  git  linux  docker  kubernetes  aws  ansible  devops  sql  azure  containers  terraform  openstack  interview  prometheus  coding  sre  interview-questions  production-engineer ,https://github.com/bregman-arie/devops-exercises
+ansible,ansible,62100, python  ansible  hacktoberfest ,https://github.com/ansible/ansible
+trailofbits,algo,28600, security  ansible  encryption  ipsec  vpn  vpn-server  vpn-client  ikev2  strongswan  ssh-tunnel  wireguard ,https://github.com/trailofbits/algo
+MichaelCade,90DaysOfDevOps,26300, kubernetes  ansible  devops  backup  networking  containers  terraform  iac ,https://github.com/MichaelCade/90DaysOfDevOps
+StreisandEffect,streisand,23200, ssh  ansible  openvpn  stunnel  tor  shadowsocks  vpn  censorship  openconnect  anyconnect  wireguard  streisand ,https://github.com/StreisandEffect/streisand
+kubernetes-sigs,kubespray,15800, kubernetes  aws  ansible  kubernetes-cluster  high-availability  gce  hacktoberfest  bare-metal  kubespray  k8s-sig-cluster-lifecycle ,https://github.com/kubernetes-sigs/kubespray
+ansible,awx,13800, python  ansible  automation  django  reactjs  django-rest-framework  hacktoberfest  awx ,https://github.com/ansible/awx
+easzlab,kubeasz,10400, docker  kubernetes  ansible  etcd  k8s  flannel  calico  kubeasz  cilium ,https://github.com/easzlab/kubeasz
+semaphoreui,semaphore,10100, docker  jenkins  ansible  devops  ci  terraform  cicd  docker-ui  terraform-ui  awx  opentofu ,https://github.com/semaphoreui/semaphore
+netbootxyz,netboot.xyz,8600, linux  docker  ansible  install  dhcp  installer  ipxe  netboot  pxelinux  boot  provisioning  menu  tftp  pxe  operating-systems  homelab  liveos  baremetal  pxeboot  netbootxyz ,https://github.com/netbootxyz/netboot.xyz
+geerlingguy,ansible-for-devops,8300, docker  kubernetes  aws  ansible  vagrant  devops  amazon  book  examples  playbook  leanpub  kindle  jeff-geerling ,https://github.com/geerlingguy/ansible-for-devops
+khuedoan,homelab,8000, docker  kubernetes  ansible  devops  terraform  fedora  helm  netboot  self-hosting  pxe  homelab  gitops  argocd  k3s  k8s-at-home  home-operations ,https://github.com/khuedoan/homelab
+Tikam02,DevOps-Guide,7900, python  git  linux  docker  kubernetes  jenkins  ansible  devops  networking  containers  grafana  interview  ci-cd  cheatsheet  kubernetes-monitoring  hacktoberfest  devops-cheatsheets  hacktoberfest2020  hacktoberfest-2020 ,https://github.com/Tikam02/DevOps-Guide
+geerlingguy,mac-dev-playbook,5900, macos  setup  homebrew  mac  ansible  automation  playbook  developer ,https://github.com/geerlingguy/mac-dev-playbook
+rundeck,rundeck,5500, java  ansible  devops  automation  ops  deployment  scheduler  rundeck  audit  orchestration  operations  sre  devops-tools  hacktoberfest  runbook  devops-team ,https://github.com/rundeck/rundeck
+KubeOperator,KubeOperator,5000, docker  kubernetes  lightweight  ansible  containers  terraform  openstack  paas  k8s  vmware-vsphere  kubeapps  kubernetes-installer ,https://github.com/KubeOperator/KubeOperator
+clong,DetectionLab,4600, ansible  vagrant  packer  powershell  terraform  detection  dfir  vagrantfile  sysmon  osquery  information-security  lab-environment  detectionlab  dfir-automation ,https://github.com/clong/DetectionLab
+ChristianLempa,boilerplates,4400, docker  kubernetes  ansible  vagrant  packer  docker-compose  terraform ,https://github.com/ChristianLempa/boilerplates
+dev-sec,ansible-collection-hardening,3900, linux  nginx  ansible  protection  collection  playbook  role  devsec  hardening  hacktoberfest  sysctl  ansible-collection  os-hardening  mysql-hardening  ssh-hardening  nginx-hardening ,https://github.com/dev-sec/ansible-collection-hardening
+ansible,molecule,3900, python  testing  ansible  testinfra  hacktoberfest  testing-framework  podman  molecule-driver  cookiecutter-ansible  supports-dot-config  pep-621  ansible-dev-tools ,https://github.com/ansible/molecule

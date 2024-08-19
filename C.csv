@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+Genymobile,scrcpy,108000, android  c  ffmpeg  sdl2  screen  libav  recording  mirroring ,https://github.com/Genymobile/scrcpy
+neovim,neovim,81000, c  vim  api  lua  neovim  nvim  text-editor ,https://github.com/neovim/neovim
+obsproject,obs-studio,58300, c  c-plus-plus  ffmpeg  live-streaming  video-recording  screen-capture  twitch-tv  directshow  facebook-live  youtube-live  game-capture ,https://github.com/obsproject/obs-studio
+fffaraz,awesome-cpp,58100, c  lists  c-plus-plus  list  awesome  cpp  libraries  resources  awesome-list  cppcon  cpp-library  programming-tutorial ,https://github.com/fffaraz/awesome-cpp
+git,git,51500, c  shell  hacktoberfest ,https://github.com/git/git
+FFmpeg,FFmpeg,44400, audio  c  streaming  video  rtsp  ffmpeg  mp4  hls  multimedia  rtmp  webm  mpeg  fft  hevc  matroska ,https://github.com/FFmpeg/FFmpeg
+serhii-londar,open-source-mac-os-apps,40800, javascript  ruby  python  c  macos  swift  open-source  mac  c-plus-plus  awesome  opensource  objective-c  apps  applications  macosx  awesome-list  hacktoberfest  macos-application ,https://github.com/serhii-londar/open-source-mac-os-apps
+vim,vim,35900, c  vim  cross-platform  text-editor ,https://github.com/vim/vim
+curl,curl,35200, c  http  mqtt  client  ldap  library  user-agent  curl  https  websocket  ftp  sftp  libcurl  scp  pop3  gopher  transfer-data  hacktoberfest  imaps  transferring-data ,https://github.com/curl/curl
+huihut,interview,34200, c  algorithm  database  leetcode  cpp  stl  interview  operating-system  data-structures  interviews  interview-practice  interview-questions  interview-preparation ,https://github.com/huihut/interview
+mpv-player,mpv,27300, audio  c  video  ffmpeg  multimedia  mpv  libav  mplayer  hacktoberfest ,https://github.com/mpv-player/mpv
+ggreer,the_silver_searcher,26000, c  search-in-text  pcre  command-line-tool  ag  silver-searcher ,https://github.com/ggreer/the_silver_searcher
+ossrs,srs,25100, audio  c  c-plus-plus  streaming  video  hls  multimedia  rtmp  webrtc  live-streaming  live  media-server  dash  prometheus-exporter  srt  low-latency  hevc  video-streaming  video-conferencing  server-side ,https://github.com/ossrs/srs
+kovidgoyal,kitty,23500, python  c  go  golang  terminal  opengl  terminfo  terminal-emulators  vt100  kitty  golang-application  kitty-terminal ,https://github.com/kovidgoyal/kitty
+google,flatbuffers,22700, javascript  python  c  java  go  c-sharp  rust  c-plus-plus  serialization  typescript  protobuf  cross-platform  flatbuffers  zero-copy  marshalling  grpc  rpc  json-parser  mmap  serialization-library ,https://github.com/google/flatbuffers
+microsoft,vcpkg,22600, c  windows  package-manager  visual-studio  cmake  packages  cplusplus  cpp  libraries  vcpkg ,https://github.com/microsoft/vcpkg
+ruby,ruby,21800, ruby  c  language  programming-language  rust  jit  object-oriented  ruby-language ,https://github.com/ruby/ruby
+raysan5,raylib,21100, android  c  linux  raspberry-pi  iot  gamedev  embedded  programming  opengl  game-engine  graphics  game-development  raylib  webassembly  wasm  videogames  hacktoberfest ,https://github.com/raysan5/raylib
+hashcat,hashcat,20700, c  opencl  cuda  password  gpgpu  hashes  cracking  hashcat ,https://github.com/hashcat/hashcat
+radareorg,radare2,20200, c  commandline  security  reverse-engineering  disassembler  forensics  malware-analysis  binary-analysis  radare2  hacktoberfest ,https://github.com/radareorg/radare2

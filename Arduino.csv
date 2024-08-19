@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+arendst,Tasmota,21800, mqtt  iot  arduino  esp8266  automation  ota  firmware  esp32  smart-home  knx  sonoff  tasmota  tuya ,https://github.com/arendst/Tasmota
+MarlinFirmware,Marlin,16100, arduino  avr  firmware  esp32  atmel  hacktoberfest  3d-printing  reprap  stmicro ,https://github.com/MarlinFirmware/Marlin
+tinygo-org,tinygo,14900, arduino  avr  arm  microcontroller  gpio  i2c  esp32  llvm  adafruit  stm32  webassembly  wasm  spi  microbit  hacktoberfest  nrf52  samd21  nrf51  wasi  tinygo ,https://github.com/tinygo-org/tinygo
+arduino,Arduino,14100, arduino  ide ,https://github.com/arduino/Arduino
+rwaldron,johnny-five,13300, javascript  raspberry-pi  iot  arduino  beaglebone-black  gpio  serial  robotics  i2c  intel  bluetooth  spi  chip  tessel  adc  photon  pwm  1-wire  pcduino  dac ,https://github.com/rwaldron/johnny-five
+SpacehuhnTech,esp8266_deauther,13200, arduino  esp8266  board  hack  attack  wifi  deauth  scanning  hacktoberfest  deauther ,https://github.com/SpacehuhnTech/esp8266_deauther
+espressif,arduino-esp32,13200, arduino  esp32  platformio  esp-idf ,https://github.com/espressif/arduino-esp32
+gurugio,lowlevelprogramming-university,10000, programming-language  arduino  hardware  firmware  assembly  linux-kernel  embedded-systems  operating-system  rust-lang  low-level  system-programming  assembly-language-programming  low-level-programming  c-programming  linux-kernel-hacking ,https://github.com/gurugio/lowlevelprogramming-university
+hybridgroup,gobot,8900, go  mqtt  raspberry-pi  iot  arduino  beaglebone-black  gpio  robot  uav  drone  robotics  hardware  i2c  bluetooth  internet-of-things  sphero  intel-joule  beaglebone  bluetooth-le  intel-edison ,https://github.com/hybridgroup/gobot
+platformio,platformio-core,7800, debugging  iot  arduino  esp8266  avr  package-manager  unit-testing  arm  microcontroller  embedded  libraries  firmware  esp32  ide  platformio  build-system  cmsis  rtos  risc-v  zephyr-rtos ,https://github.com/platformio/platformio-core
+bblanchon,ArduinoJson,6700, iot  c-plus-plus  arduino  esp8266  json  embedded  esp32  arduino-library ,https://github.com/bblanchon/ArduinoJson
+tzapu,WiFiManager,6500, arduino  esp8266  captive  wifimanager  configuration-portal ,https://github.com/tzapu/WiFiManager
+justcallmekoko,ESP32Marauder,5200, iot  arduino  esp8266  command-line  firmware  scanner  esp32  wifi  bluetooth  deauth  beacon  spammer  espressif  offensive  defensive  deauthentication-attack  deauthentication  esp32-s2  flipperzero  flipper-zero ,https://github.com/justcallmekoko/ESP32Marauder
+olikraus,u8g2,5000, arduino  font  microcontroller  lcd  display  embedded-systems  oled  u8g2  monochrome-displays ,https://github.com/olikraus/u8g2
+omriharel,deej,4700, audio  go  golang  arduino  gaming  diy  volume-control ,https://github.com/omriharel/deej
+ClemensElflein,OpenMower,4600, raspberry-pi  arduino  robot  robotics  gps  ros  rtk  path-finding  landscaping  lawn-mower  robomow ,https://github.com/ClemensElflein/OpenMower
+Arduino-IRremote,Arduino-IRremote,4400, arduino  library  remote  arduino-library  infrared ,https://github.com/Arduino-IRremote/Arduino-IRremote
+Serial-Studio,Serial-Studio,4300, iot  arduino  qt  microcontroller  embedded  csv  serial  graph  network  projects  ground-station  cansat  serial-studio ,https://github.com/Serial-Studio/Serial-Studio
+arduino,arduino-cli,4300, cli  golang  arduino  command-line  tooling-team ,https://github.com/arduino/arduino-cli
+hybridgroup,cylon,4200, javascript  raspberry-pi  iot  arduino  beaglebone-black  gpio  robotics  i2c  internet-of-things  bluetooth-low-energy  sphero  chip  intel-joule  drones  intel-edison ,https://github.com/hybridgroup/cylon

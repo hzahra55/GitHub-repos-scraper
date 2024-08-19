@@ -1,0 +1,21 @@
+username,repo_name,stars,related tags,repo_url
+localstack,localstack,53400, python  testing  aws  cloud  continuous-integration  developer-tools  localstack ,https://github.com/localstack/localstack
+harness,gitness,32000, git  go  docker  continuous-integration  continuous-delivery  ci  build-pipelines  build-automation  ci-cd  scm  hacktoberfest ,https://github.com/harness/gitness
+jenkinsci,jenkins,22800, java  jenkins  groovy  devops  pipelines-as-code  continuous-integration  continuous-delivery  continuous-deployment  cicd  hacktoberfest ,https://github.com/jenkinsci/jenkins
+auchenberg,volkswagen,14200, nodejs  ci-server  continuous-integration  cheat  defeat  javascipt  volkswagen ,https://github.com/auchenberg/volkswagen
+milanm,DevOps-Roadmap,10900, python  go  linux  docker  kubernetes  computer-science  aws  devops  roadmap  jira  continuous-integration  azure  grafana  prometheus  sre  study-plan  continous-delivery  developer-roadmap  devops-roadmap ,https://github.com/milanm/DevOps-Roadmap
+dagger,dagger,10800, docker  devops  deployment  continuous-integration  continuous-delivery  containers  continuous-deployment  ci-cd  buildkit ,https://github.com/dagger/dagger
+openshift,origin,8500, go  kubernetes  devops  openshift  continuous-integration  continuous-delivery  containers  continuous-deployment  openshift-origin  paas  caas  ci-cd ,https://github.com/openshift/origin
+concourse,concourse,7300, go  continuous-integration  continuous-delivery  ci  elm  pipelines  ci-cd  concourse  hacktoberfest ,https://github.com/concourse/concourse
+gocd,gocd,7100, continuous-integration  continuous-delivery  ci  cd  continuous-deployment  ci-cd  continuous-testing  infrastructure-as-code  gocd  continuous-delivery-server ,https://github.com/gocd/gocd
+buildbot,buildbot,5200, python  continuous-integration  ci  ci-framework ,https://github.com/buildbot/buildbot
+gaia-pipeline,gaia,5200, ruby  python  java  go  kubernetes  devops  distributed-systems  automation  build  deployment  cplusplus  pipeline  continuous-integration  continuous-delivery  continuous-testing  devops-tools  gitops ,https://github.com/gaia-pipeline/gaia
+Flagsmith,flagsmith,4700, react  python  docker  remote-control  continuous-integration  ci  cd  feature-flags  feature-toggles  self-hosted  hacktoberfest  feature-flaggers  multivariate-testing  remote-config  feature-flag  feature-flagging  feature-management  flagsmith ,https://github.com/Flagsmith/flagsmith
+Strider-CD,strider,4600, nodejs  emberjs  angular  continuous-integration  web-app  continuous-deployment ,https://github.com/Strider-CD/strider
+jenkins-x,jx,4600, kubernetes  golang  devops  pipeline  openshift  continuous-integration  continuous-delivery  accelerator  cicd  hacktoberfest  environments  gitops  tekton ,https://github.com/jenkins-x/jx
+ovh,cds,4500, golang  devops  automation  continuous-integration  continuous-delivery  continuous-deployment  hacktoberfest  devops-workflow ,https://github.com/ovh/cds
+TheLartians,ModernCppStarter,4300, c  bootstrap  open-source  template  coverage  cmake  dependency-manager  cpp  continuous-integration  ci  starter  free  cmakelists  codecov  clang-format  ccache  modern-cmake  sanitizers  github-workflows  modern-cmake-template ,https://github.com/TheLartians/ModernCppStarter
+JamesIves,github-pages-deploy-action,4200, github-enterprise  github-pages  workflow  deployment  deployer  gh-pages  continuous-integration  continuous-delivery  deploy  continuous-deployment  static  actions  action  cicd  ghpages  ssg  github-actions  github-action  workflow-runs  workflow-configuration ,https://github.com/JamesIves/github-pages-deploy-action
+werf,werf,4100, docker  kubernetes  golang  dockerfile  devops  continuous-integration  continuous-delivery  helm  docker-image  ci-cd  iac  gitops  buildah  werf  giterminism ,https://github.com/werf/werf
+iterative,cml,4000, cli  data-science  machine-learning  continuous-integration  continuous-delivery  ci  gitlab-ci  ci-cd  developer-tools  cicd  hacktoberfest  bitbucket-pipelines  github-actions ,https://github.com/iterative/cml
+xcpretty,xcpretty,3900, ios  continuous-integration  ci ,https://github.com/xcpretty/xcpretty
